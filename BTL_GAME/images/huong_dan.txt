@@ -1,0 +1,26 @@
+Hướng dẫn:
+-	Người chơi có 3 mạng sống. Mỗi lần bị thương sẽ bị mất 1/3 lượng máu, nếu thanh máu không còn chút máu nào thì người chơi sẽ thua cuộc
+-	Di chuyển bằng bàn phím
+-	Cần phá hủy vật cản để di chuyển và thu thập vật phẩm:
++ Khiên bảo vệ: Bảo vệ người chươi trong 5s. Biến mất sau 5s hoặc khi bị trúng đạn
++ Máu: Tăng máu của người chơi 
+-	Chế độ 1 người chơi:
++ Di chuyển: 
+Phím mũi tên lên:   di chuyển lên
+Phím mũi tên xuống: di chuyển xuống
+Phím mũi tên trái:  sang trái
+Phím mũi tên phải:  sang phải
+Space  : bắn đạn
++ Bị giảm máu khi bị trúng đạn hoặc va chạm vào kẻ địch
++ Người chơi sẽ thắng nếu tiêu diệt được hết kẻ địch
+-	Chế độ 2 người chơi:
++ Di chuyển:
+Người chơi 1: cách di chuyển tương tự chế độ 1 người chơi
+Người chơi 2: 
+   W : di chuyển lên
+   S   : di chuyển xuống
+   A  : sang trái
+   D  : sang phải
+   F  : bắn đạn
+	+ Bị giảm máu khi trúng đạn
++ Người chơi thắng là người tiêu diệt được người còn lại
